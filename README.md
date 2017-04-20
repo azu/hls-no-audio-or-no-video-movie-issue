@@ -49,7 +49,7 @@ This `ts` file has video(`Video: h264 (High)`) and Audio(`Audio: aac (LC)`).
 
 ## No Audio movie
 
-- URL: <https://azu.github.com/hls-no-audio-or-no-video-movie-issue/no-audio-movie/output.m3u8>
+- URL: <https://cdn.rawgit.com/azu/hls-no-audio-or-no-video-movie-issue/gh-pages/no-audio-movie/output.m3u8>
 
 See [no-audio-movie/](./no-audio-movie)
 
@@ -90,7 +90,7 @@ Input #0, mpegts, from 'no-audio-movie/output_0000.ts':
 
 ## No video movie
 
-- URL: <https://azu.github.com/hls-no-audio-or-no-video-movie-issue/no-video-movie/output.m3u8>
+- URL: <https://cdn.rawgit.com/azu/hls-no-audio-or-no-video-movie-issue/gh-pages/no-video-movie/output.m3u8>
 
 See [no-video-movie/](./no-video-movie)
 
